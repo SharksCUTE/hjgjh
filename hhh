@@ -1,0 +1,33 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tìm gì</title>
+</head>
+<body>
+    <form>
+        <div>
+            <label>điền vào</label>
+<input type="text" placeholder="tên mình là?">
+
+        </div>
+        <div>
+            <label>bạn có bị gay khong</label>
+            <select>
+                <option>có</option>
+                <option>không</option>
+                <option>chưa biết</option>
+                
+            </select>
+        </div>
+        <div>
+            <label>bạn có ny chưa??</label>
+            <input type="radio" name="gau"> chưa có
+            <input type="radio" name="gau">thất nghiệp lấy gì có ny
+        </div>
+        <button>bấm vào để có ny</button>
+    </form>
+</body>
+</html>
